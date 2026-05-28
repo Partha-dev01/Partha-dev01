@@ -41,21 +41,63 @@
 ## 📊 Neon GitHub Dashboard
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Partha-dev01&show_icons=true&theme=synthwave&hide_border=true&border_radius=18&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=FF00E5&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partha-dev01&layout=compact&theme=synthwave&hide_border=true&border_radius=18&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+  <a href="https://github.com/Partha-dev01?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-8-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+  </a>
+  <a href="https://github.com/Partha-dev01?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-17-0D1117?style=for-the-badge&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
+  </a>
+  <a href="https://github.com/Partha-dev01?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-3-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&color=FF00E5" />
+  </a>
+  <img src="https://img.shields.io/badge/Primary%20Language-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
 </p>
 
-<p align="center">
-  <img height="185" src="https://streak-stats.demolab.com?user=Partha-dev01&theme=synthwave&hide_border=true&border_radius=18&background=0D1117&ring=00E5FF&fire=FF00E5&currStreakLabel=00E5FF" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🧠 AI / ML</h3>
+      <p><b>YOLO · ONNX · PyTorch</b></p>
+      <p>Model optimization, browser-side inference and computer vision experiments.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚡ Edge AI</h3>
+      <p><b>Vitis AI · DPU · FPGA</b></p>
+      <p>Deployment-focused work on ZCU104, Kria KR-260 and quantized inference.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚙️ DevOps</h3>
+      <p><b>Linux · Docker · CI/CD</b></p>
+      <p>Reproducible services, deployment pipelines and homelab-style systems.</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📡 Click to expand my GitHub signal map</b></summary>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Partha-dev01&bg_color=0D1117&color=00E5FF&line=FF00E5&point=FFFFFF&area=true&hide_border=true&custom_title=Neon%20Contribution%20Wave" />
+  <img src="https://img.shields.io/badge/TypeScript-AutiSense-0D1117?style=for-the-badge&logo=typescript&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+  <img src="https://img.shields.io/badge/Python-Router%20Reset%20%7C%20Image%20API-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF&labelColor=0D1117&color=FF00E5" />
+  <img src="https://img.shields.io/badge/PowerShell-WSL%20Fix-0D1117?style=for-the-badge&logo=powershell&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" />
+  <img src="https://img.shields.io/badge/JavaScript-Event%20Platform-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117&color=8A00FF" />
 </p>
+
+```text
+GitHub focus:
+> AI product engineering
+> Edge AI deployment experiments
+> DevOps utilities and system fixes
+> Full-stack event and API platforms
+```
+
+</details>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c85-7d045910ddc4.gif" width="35" /> About Me
+## 🧑‍💻 About Me
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd7e3-4d25-4c8f-8b68-38b89371bc9d.gif" />
 
@@ -69,6 +111,26 @@ I’m **Partha**, an **AI/ML and DevOps-focused IT engineering student** buildin
 - **Cloud AI workflows using AWS Bedrock, Polly, DynamoDB and Amplify**
 
 I enjoy working at the intersection of **hardware-aware AI**, **deployment engineering**, and **user-facing AI products**.
+
+<details>
+  <summary><b>🧠 Click the emoji to decode my dev mode</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Building%20Practical%20AI-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" />
+  <img src="https://img.shields.io/badge/Style-Prototype%20%E2%86%92%20Optimize%20%E2%86%92%20Deploy-0D1117?style=for-the-badge&labelColor=0D1117&color=8A00FF" />
+  <img src="https://img.shields.io/badge/Goal-Real%20World%20Impact-0D1117?style=for-the-badge&labelColor=0D1117&color=FF00E5" />
+</p>
+
+```text
+I like projects where:
+> AI has to run under real constraints
+> deployment matters as much as the model
+> users get a useful workflow, not just a demo
+```
+
+</details>
 
 ```yaml
 name: Partha / PG
@@ -93,7 +155,7 @@ engineering_style:
   - Keep deployments reproducible
   - Optimize for real-world constraints
   - Learn close to hardware and users
-````
+```
 
 <br clear="right"/>
 
@@ -204,9 +266,12 @@ engineering_style:
         <li>Polly text-to-speech support</li>
         <li>DynamoDB sync and Amplify deployment</li>
       </ul>
-      <a href="https://github.com/Partha-dev01/AutiSense">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Partha-dev01&repo=AutiSense&theme=synthwave&hide_border=true&border_radius=18&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=FF00E5" />
-      </a>
+      <p align="center">
+        <a href="https://github.com/Partha-dev01/AutiSense">
+          <img src="https://img.shields.io/badge/Open%20Repo-AutiSense-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+        </a>
+        <img src="https://img.shields.io/badge/TypeScript-9%20Stars-0D1117?style=for-the-badge&logo=typescript&logoColor=00E5FF&labelColor=0D1117&color=FF00E5" />
+      </p>
     </td>
     <td width="50%">
       <h3>⚡ YOLOv11 DPU Deployment</h3>
@@ -293,23 +358,48 @@ engineering_style:
 
 ## 📌 Repository Cards
 
-<p align="center">
-  <a href="https://github.com/Partha-dev01/AutiSense">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Partha-dev01&repo=AutiSense&theme=synthwave&hide_border=true&border_radius=18&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=FF00E5" />
-  </a>
-  <a href="https://github.com/Partha-dev01/WSL-installation-fix">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Partha-dev01&repo=WSL-installation-fix&theme=synthwave&hide_border=true&border_radius=18&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=FF00E5" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Partha-dev01/image-api">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Partha-dev01&repo=image-api&theme=synthwave&hide_border=true&border_radius=18&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=FF00E5" />
-  </a>
-  <a href="https://github.com/Partha-dev01/eventmanagement">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Partha-dev01&repo=eventmanagement&theme=synthwave&hide_border=true&border_radius=18&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=FF00E5" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Partha-dev01/AutiSense">🧠 AutiSense</a></h3>
+      <p><b>AI-enabled early autism screening, diagnosis support and post-diagnosis care platform.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+        <img src="https://img.shields.io/badge/Stars-9-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
+        <img src="https://img.shields.io/badge/MIT-License-0D1117?style=flat-square&labelColor=0D1117&color=FF00E5" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Partha-dev01/WSL-installation-fix">🛠️ WSL Installation Fix</a></h3>
+      <p><b>PowerShell utility work for fixing broken WSL on Windows installation.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+        <img src="https://img.shields.io/badge/Stars-1-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
+        <img src="https://img.shields.io/badge/MIT-License-0D1117?style=flat-square&labelColor=0D1117&color=FF00E5" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Partha-dev01/image-api">🖼️ Image API</a></h3>
+      <p><b>Image processing API using Python, Flask and PIL.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+        <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF&labelColor=0D1117&color=FF00E5" />
+        <img src="https://img.shields.io/badge/Stars-1-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Partha-dev01/eventmanagement">🎫 Event Management</a></h3>
+      <p><b>JavaScript event-management platform with participant, organizer and admin workflows.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117&color=8A00FF" />
+        <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=FF00E5" />
+        <img src="https://img.shields.io/badge/Stars-1-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -362,35 +452,132 @@ Core work:
 
 ---
 
-## 🧭 How I Turn Ideas Into Deployable Systems
+## 🧭 Build Pipeline: From Idea to Deployable System
 
-```mermaid
-flowchart LR
-    A[Idea / Problem] --> B[Prototype]
-    B --> C[Model or App Logic]
-    C --> D[Optimization]
-    D --> E[Containerization]
-    E --> F[Deployment]
-    F --> G[Validation]
-    G --> H[Monitoring + Feedback]
-    H --> I[Iterate]
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Idea-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" />
+  <img src="https://img.shields.io/badge/02-Prototype-0D1117?style=for-the-badge&labelColor=0D1117&color=8A00FF" />
+  <img src="https://img.shields.io/badge/03-Optimize-0D1117?style=for-the-badge&labelColor=0D1117&color=FF00E5" />
+  <img src="https://img.shields.io/badge/04-Deploy-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" />
+  <img src="https://img.shields.io/badge/05-Validate-0D1117?style=for-the-badge&labelColor=0D1117&color=8A00FF" />
+</p>
 
-    C --> C1[YOLO / ONNX / LLMs]
-    D --> D1[Quantization / DPU Compatibility]
-    E --> E1[Docker / CI-CD]
-    F --> F1[Cloud / Browser / Edge Board]
-    G --> G1[Testing / Benchmarks / User Flow]
-```
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <h3>💡 Ideate</h3>
+      <p>Convert a real problem into a focused technical objective.</p>
+      <img src="https://img.shields.io/badge/Problem%20Framing-00E5FF?style=flat-square&labelColor=0D1117" />
+    </td>
+    <td width="20%" align="center">
+      <h3>🧪 Prototype</h3>
+      <p>Build the fastest working version before over-engineering.</p>
+      <img src="https://img.shields.io/badge/MVP-8A00FF?style=flat-square&labelColor=0D1117" />
+    </td>
+    <td width="20%" align="center">
+      <h3>⚡ Optimize</h3>
+      <p>Improve speed, memory, model size and deployment compatibility.</p>
+      <img src="https://img.shields.io/badge/Quantization-FF00E5?style=flat-square&labelColor=0D1117" />
+    </td>
+    <td width="20%" align="center">
+      <h3>🚀 Deploy</h3>
+      <p>Package for browser, cloud, container or edge board.</p>
+      <img src="https://img.shields.io/badge/Docker%20%7C%20Cloud%20%7C%20Edge-00E5FF?style=flat-square&labelColor=0D1117" />
+    </td>
+    <td width="20%" align="center">
+      <h3>📈 Validate</h3>
+      <p>Test under real constraints and improve the loop.</p>
+      <img src="https://img.shields.io/badge/Test%20%26%20Iterate-8A00FF?style=flat-square&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🧠 AI / ML Deployment Track</b></summary>
+
+<br>
 
 ```text
-My build philosophy:
-> Start with a working prototype.
-> Optimize only after the workflow is clear.
-> Package the system so others can run it.
-> Deploy to the right target: browser, cloud, container, or edge device.
-> Validate with real constraints, not just ideal demos.
-> Improve the pipeline until it becomes repeatable.
+Input Data
+   ↓
+Model Training / Fine-tuning
+   ↓
+ONNX / PyTorch Export
+   ↓
+Quantization + Compatibility Fixes
+   ↓
+Runtime Target: Browser / Cloud / DPU / Edge Board
+   ↓
+Benchmarking + Validation
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF&color=8A00FF" />
+  <img src="https://img.shields.io/badge/ONNX-Runtime-0D1117?style=for-the-badge&logo=onnx&logoColor=00E5FF&color=FF00E5" />
+  <img src="https://img.shields.io/badge/Vitis%20AI-DPU%20Deploy-0D1117?style=for-the-badge&logo=xilinx&logoColor=FF00E5&color=00E5FF" />
+</p>
+
+</details>
+
+<details>
+  <summary><b>⚙️ DevOps / Systems Track</b></summary>
+
+<br>
+
+```text
+Local Development
+   ↓
+Git + Version Control
+   ↓
+Dockerized Environment
+   ↓
+CI/CD Pipeline
+   ↓
+Cloud / Homelab Deployment
+   ↓
+Logs, Monitoring and Feedback
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Systems-0D1117?style=for-the-badge&logo=linux&logoColor=00E5FF&color=8A00FF" />
+  <img src="https://img.shields.io/badge/Docker-Containers-0D1117?style=for-the-badge&logo=docker&logoColor=00E5FF&color=FF00E5" />
+  <img src="https://img.shields.io/badge/GitLab-CI%2FCD-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26&color=00E5FF" />
+</p>
+
+</details>
+
+<details>
+  <summary><b>🌐 Full-Stack Product Track</b></summary>
+
+<br>
+
+```text
+User Flow
+   ↓
+Frontend UI
+   ↓
+Backend API
+   ↓
+Database / Cloud Services
+   ↓
+Authentication + Role-based Access
+   ↓
+Deployment + User Testing
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-Frontend-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&color=8A00FF" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF&color=FF00E5" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20AI-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&color=00E5FF" />
+</p>
+
+</details>
+
+<br>
+
+<p align="center">
+  <b>Build fast. Optimize deeply. Deploy cleanly. Validate honestly. Repeat.</b>
+</p>
 
 ---
 
@@ -553,4 +740,3 @@ while learning:
     alt="Neon Footer"
   />
 </p>
-
