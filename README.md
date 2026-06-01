@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020024,30:090979,65:8A00FF,100:00D4FF&text=PARTHA%20DEV&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=AI%2FML%20%7C%20Edge%20AI%20%7C%20DevOps%20%7C%20Full-Stack%20Systems&descAlignY=58&descSize=18&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020024,30:090979,65:8A00FF,100:00D4FF&text=Partha-dev01&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=AI%2FML%20%7C%20Edge%20AI%20%7C%20DevOps%20%7C%20Full-Stack%20Systems&descAlignY=58&descSize=18&animation=twinkling"
     alt="Neon Header"
   />
 </p>
