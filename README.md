@@ -639,7 +639,7 @@ Focus: Linux administration, users, permissions, services, storage and system op
 
 ---
 
-## 🏅 Trophy Rack
+## 🏅 Showcase Rack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Edge%20AI-DPU%20Builder-0D1117?style=for-the-badge&logo=amd&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
