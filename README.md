@@ -616,34 +616,7 @@ AIOps Quest
 
 </details>
 
----
 
-## 🔮 Current Focus Areas
-
-<table>
-  <tr>
-    <td width="25%">
-      <h3>01</h3>
-      <p><b>Edge AI</b></p>
-      <p>Running optimized AI models close to hardware and users.</p>
-    </td>
-    <td width="25%">
-      <h3>02</h3>
-      <p><b>Computer Vision</b></p>
-      <p>YOLO-based detection, crowd analysis and deployment testing.</p>
-    </td>
-    <td width="25%">
-      <h3>03</h3>
-      <p><b>Cloud AI</b></p>
-      <p>Using AWS AI services to build helpful user-facing workflows.</p>
-    </td>
-    <td width="25%">
-      <h3>04</h3>
-      <p><b>AIOps</b></p>
-      <p>Exploring local agents for telemetry, logs and RCA support.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
