@@ -356,68 +356,6 @@ engineering_style:
 
 ---
 
-## 📌 Repository Cards
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Partha-dev01/AutiSense">🧠 AutiSense</a></h3>
-      <p><b>AI-enabled early autism screening, diagnosis support and post-diagnosis care platform.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
-        <img src="https://img.shields.io/badge/Stars-9-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
-        <img src="https://img.shields.io/badge/MIT-License-0D1117?style=flat-square&labelColor=0D1117&color=FF00E5" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Partha-dev01/WSL-installation-fix">🛠️ WSL Installation Fix</a></h3>
-      <p><b>PowerShell utility work for fixing broken WSL on Windows installation.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
-        <img src="https://img.shields.io/badge/Stars-1-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
-        <img src="https://img.shields.io/badge/MIT-License-0D1117?style=flat-square&labelColor=0D1117&color=FF00E5" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Partha-dev01/image-api">🖼️ Image API</a></h3>
-      <p><b>Image processing API using Python, Flask and PIL.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
-        <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF&labelColor=0D1117&color=FF00E5" />
-        <img src="https://img.shields.io/badge/Stars-1-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Partha-dev01/eventmanagement">🎫 Event Management</a></h3>
-      <p><b>JavaScript event-management platform with participant, organizer and admin workflows.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117&color=8A00FF" />
-        <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=FF00E5" />
-        <img src="https://img.shields.io/badge/Stars-1-0D1117?style=flat-square&logo=starship&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧪 Research Mode
-
-```text
-Research Intern — University of Calcutta, Technology Campus
-Location: Kolkata, West Bengal
-Mode: On-site
-Period: Jan 2025 — Present
-
-Core work:
-> Set up Vitis AI runtime on Kria KR-260 and ZCU104
-> Worked on DPU acceleration for AI inference
-> Fine-tuned YOLOv8 for crowd detection and behavior analysis
-> Performed model quantization, testing and validation
-> Validated computer vision models on FPGA boards
-```
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kria%20KR--260-0D1117?style=for-the-badge&logo=amd&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
@@ -428,29 +366,6 @@ Core work:
 
 ---
 
-## 💼 Internship Timeline
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🔬 Research Intern</h3>
-      <p><b>University of Calcutta</b></p>
-      <p>AI inference acceleration, Vitis AI, DPU, YOLOv8, FPGA board validation.</p>
-    </td>
-    <td width="33%">
-      <h3>🌐 Full Stack Developer</h3>
-      <p><b>Noesiser</b></p>
-      <p>MERN development, REST APIs, SQL, Git and event platform workflows.</p>
-    </td>
-    <td width="33%">
-      <h3>⚙️ Front-End / DevOps Intern</h3>
-      <p><b>Nexisa</b></p>
-      <p>Responsive UI components, Docker, CI/CD and deployment workflow support.</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🧭 Build Pipeline: From Idea to Deployable System
 
@@ -602,27 +517,6 @@ engineering_goal="Make projects easy to run, test, deploy and improve"
 
 ---
 
-## 🏆 Hackathon Signals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI4Bharat%20AWS-Semi--Finalist-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0D1117&color=8A00FF" />
-  <img src="https://img.shields.io/badge/SIH%202023%2F24-Rank%2016-0D1117?style=for-the-badge&logo=hackaday&logoColor=00E5FF&labelColor=0D1117&color=FF00E5" />
-  <img src="https://img.shields.io/badge/Binary%20KGEC%202025-Finalist-0D1117?style=for-the-badge&logo=codeforces&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
-</p>
-
-```text
-AI4Bharat AWS Hackathon
-> Semi-finalist among selected teams
-> Awarded AWS credits for project development
-
-SIH 2023/24
-> Selected with Rank #16 in the internal hackathon
-
-Binary KGEC 2025
-> Advanced to the final round from 1300+ participants
-```
-
----
 
 ## 📜 Certification
 
