@@ -33,6 +33,18 @@
   <img src="https://img.shields.io/badge/Cloud-AWS%20AI-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Vitis%20AI-0D1117?style=for-the-badge&logo=xilinx&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+  <img src="https://img.shields.io/badge/DPU%20Inference-0D1117?style=for-the-badge&logo=amd&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-0D1117?style=for-the-badge&logo=onnx&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
+  <img src="https://img.shields.io/badge/YOLO%20Vision-0D1117?style=for-the-badge&logo=python&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
+  <img src="https://img.shields.io/badge/Proxmox%20Homelab-0D1117?style=for-the-badge&logo=proxmox&logoColor=FF00E5&labelColor=0D1117&color=8A00FF" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,c,java,js,ts,react,nextjs,nodejs,express,fastapi,flask,aws,docker,git,gitlab,linux,redhat,bash,powershell,postgres,dynamodb,firebase,html,css&perline=13" />
+</p>
+
 ---
 
 ## 📊 Neon GitHub Dashboard
@@ -69,6 +81,8 @@
     </td>
   </tr>
 </table>
+
+
 
 <details>
   <summary><b>📡 Click to expand my GitHub signal map</b></summary>
@@ -221,21 +235,6 @@ engineering_style:
 
 ---
 
-## 🧬 Tech Constellation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,c,java,js,ts,react,nextjs,nodejs,express,fastapi,flask,aws,docker,git,gitlab,linux,redhat,bash,powershell,postgres,dynamodb,firebase,html,css&perline=13" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vitis%20AI-0D1117?style=for-the-badge&logo=xilinx&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
-  <img src="https://img.shields.io/badge/DPU%20Inference-0D1117?style=for-the-badge&logo=amd&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-0D1117?style=for-the-badge&logo=onnx&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
-  <img src="https://img.shields.io/badge/YOLO%20Vision-0D1117?style=for-the-badge&logo=python&logoColor=FF00E5&labelColor=0D1117&color=00E5FF" />
-  <img src="https://img.shields.io/badge/Proxmox%20Homelab-0D1117?style=for-the-badge&logo=proxmox&logoColor=FF00E5&labelColor=0D1117&color=8A00FF" />
-</p>
-
----
 
 ## 🚀 Featured Build Grid
 
