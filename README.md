@@ -23,9 +23,6 @@
   <a href="https://github.com/Partha-dev01">
     <img src="https://img.shields.io/badge/GitHub-Partha--dev01-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=8A00FF" />
   </a>
-  <a href="https://www.linkedin.com/in/P-G-7a3125324/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=FF00E5" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Partha-dev01&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
 </p>
 
